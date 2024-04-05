@@ -6,15 +6,10 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class Boot13Mvc1Jsp1Application extends SpringBootServletInitializer {
+public class Boot13Mvc1Jsp1Application  {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Boot13Mvc1Jsp1Application.class, args);
 	}
 
-	@Override 
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) { 
-		// TODO Auto-generated method stub 
-		return builder.sources(Boot13Mvc1Jsp1Application.class);
-	}
 }

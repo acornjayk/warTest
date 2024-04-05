@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Dept 테이블 목록보기-war * * * * * * - aws - maybe - manager - tomcat</h1><%-- ${allData} --%>
+<h1>Dept 테이블 목록보기 - war - * * * * * * - aws - maybe - manager - tomcat - localhost</h1><%-- ${allData} --%>
 <table border="1">
   <tr>
     <td>부서번호</td>
